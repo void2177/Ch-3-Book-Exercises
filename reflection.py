@@ -18,3 +18,5 @@
 
 ##With all solutions, I can't find a better solution other than the one that was arguably better.
 ##Neither could be made better than the superior solution already was.
+
+##Fixed push
